@@ -1,0 +1,14 @@
+
+h1{background-color: aquamarine;}
+
+#image{box-shadow: 10px;
+    border-radius: 10px;
+border-color: teal;
+word-wrap: break-word;
+text-size-adjust: 40px;
+margin-top: 20px;}
+
+.para {font-size: 20px;
+word-wrap: break-word;
+text-align: justify;}
+    
